@@ -33,6 +33,7 @@ const App = () => (
         title="Press me"
         color="#f194ff"
         onPress={() => Alert.alert('Button with adjusted color pressed')}
+        
       />
     </View>
     <Separator />
